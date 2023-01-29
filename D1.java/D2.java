@@ -1,5 +1,5 @@
 //Вывести все простые числа от 1 до 1000
-public class output_of_prime_numbers {
+public class D2 {
     public static void main(String[] args) {
         boolean b = true;
         for (int q = 2; q <= 1000; q++) {
