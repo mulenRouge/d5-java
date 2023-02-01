@@ -1,7 +1,8 @@
 {
     "java.debug.settings.onBuildFailureProceed": true,
     "java.project.sourcePaths": [
+        "D2.java",
         "D1.java",
-        "D2.java"
+        "D3.java"
     ]
 }
